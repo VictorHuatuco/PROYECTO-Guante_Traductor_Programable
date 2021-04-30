@@ -1,0 +1,9 @@
+build
+debug
+dist
+nbproject
+*.pdsbak
+*.pdsprj
+*.workspace
+makefile
+*.mc3
