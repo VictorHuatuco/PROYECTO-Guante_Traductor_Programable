@@ -1,2 +1,2 @@
-# guante_traductor_autogramable
+# GUANTE TRADUCTOR DE LENGUAJE DE SEÑAS PROGRAMABLE PARA CUALQUIER MANO
 guante_traductor_autogramable
