@@ -46,7 +46,13 @@ Si desea guardar los valores en la memoria del microcontrolador, haga la posici�
 
 ![img](https://github.com/VictorHuatuco/images/blob/master/Programar1.png)
 
+Por último seleccione la opción salir y entre a la opción traducir para seguir traduciendo letras. Además, si desea puede apagarlo y al volver a prenderlo todas las configuraciones programada quedarán guardadas.
 
+Posibles mejoras: La letra "J" y "Z" necesitan un sensor acelerómetro para poder se traducida.
+
+Anexo:
+Lenguaje de señas:
+![img](https://github.com/VictorHuatuco/images/blob/master/sign-language-hands.jpg)
 
 
 
