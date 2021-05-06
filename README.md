@@ -1,6 +1,6 @@
 # GUANTE TRADUCTOR DE LENGUAJE DE SEÑAS PROGRAMABLE 
 
-La idea de este proyecto nació a partir de proyectos parecidos en internet y por mi iniciativa de quere hacer uno a mi estilo y mejorarlo para que tenga la capacidad de que ser programable para que cualquier usuario pueda personalizar la traducción de cada letra como deseé. 
+###Este proyecto consiste en un guante acondicionado con sensores que son capaces de leer la posición de los dedos. El objetivo es que al hacer una seña con la mano del lenguaje de señas, se pueda traducir a una letra visual que se mostrará en una LCD. La particularidad de este proyecto frente a parecidos es que tiene la capacidad de ser programable para que cualquier usuario pueda personalizar la traducción de cada letra como deseé. 
 
 ### Materiales:
 #### ►PIC18F4550
@@ -14,6 +14,7 @@ La idea de este proyecto nació a partir de proyectos parecidos en internet y po
 
 Circuito esquemático en Proteus 8.9:
 ![img](https://github.com/VictorHuatuco/images/blob/master/Esquem%C3%A1tico.png)
+
 Nota: Los potenciometros simulan sensor flex que se acomodan a cada dedo.
 
 ### Menú de inicio:
