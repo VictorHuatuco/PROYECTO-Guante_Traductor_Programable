@@ -37,7 +37,7 @@ Así entonces puede formar una palabra:
 
 ### Opción "Programar":
 
-Al ingresar en está opción se verá como primer letra la "A". Abajo de esta se ve los valores de los sensores.
+Al ingresar en está opción se verá como primera letra la "A". Abajo de esta se ve los valores de los sensores.
 Con la opción "SIG" puede navegar entre las letras sin guardar los valores del sensor..
 
 ![img](https://github.com/VictorHuatuco/images/blob/master/Programar2.png)
