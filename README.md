@@ -2,7 +2,7 @@
 
 La idea de este proyecto nació a partir de proyectos parecidos en internet y por mi iniciativa de quere hacer uno a mi estilo y mejorarlo para que tenga la capacidad de que ser programable para que cualquier usuario pueda personalizar la traducción de cada letra como deseé. 
 
-Materiales:
+### Materiales:
 #### ►PIC18F4550
 #### ►LCD 16x2
 #### ►5 sensores flex
