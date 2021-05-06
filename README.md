@@ -52,6 +52,7 @@ Posibles mejoras: La letra "J" y "Z" necesitan un sensor acelerómetro para pode
 
 Anexo:
 Lenguaje de señas:
+
 ![img](https://github.com/VictorHuatuco/images/blob/master/sign-language-hands.jpg)
 
 
