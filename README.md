@@ -51,6 +51,7 @@ Por último seleccione la opción salir y entre a la opción traducir para segui
 Posibles mejoras: La letra "J" y "Z" necesitan un sensor acelerómetro para poder se traducida.
 
 Anexo:
+
 Lenguaje de señas:
 
 ![img](https://github.com/VictorHuatuco/images/blob/master/sign-language-hands.jpg)
