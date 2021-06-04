@@ -99,7 +99,7 @@ void main(void) {
             LCD_Cadena("Sig.Le.<=");
             LCD_XY(1,9);
             LCD_Cadena("SALIR");
-            for(q=0;q<=10;q++){// Lee lo almacenado en la EEPROM y lo garda en paquete de 16 bits
+            for(q=0;q<=25;q++){// Lee lo almacenado en la EEPROM y lo garda en paquete de 16 bits
                 for(w=0;w<=8;w+=2){
                 letras[q][w/2] = EEPROM_Lectura_int16(10*q+w);
                 }
