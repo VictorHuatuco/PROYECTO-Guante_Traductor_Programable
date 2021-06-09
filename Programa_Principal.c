@@ -55,12 +55,9 @@ void main(void) {
    LCD_Cadena("Programar"); 
    __delay_ms(50);
     while(1){
-  
-    
 
         if((BOTON1 == 1) && (BOTON2 == 0)){ //Mover a opción Traducir
             selector = selector - 1;
-            
             LCD_Comando(0x01);
             LCD_XY(0,0);
             LCD_Cadena("Traducir <="); 
@@ -270,5 +267,5 @@ void main(void) {
     } 
 
     
-    return;
+    return;//:)
 }
