@@ -1,6 +1,6 @@
 # GUANTE TRADUCTOR DE LENGUAJE DE SEÑAS PROGRAMABLE 
 
-Este proyecto consiste en un guante acondicionado con sensores que son capaces de leer la posición de los dedos. El objetivo es que al hacer una seña con la mano del lenguaje de señas, se pueda traducir a una letra visual que se mostrará en una LCD. La particularidad de este proyecto frente a parecidos es que tiene la capacidad de ser programable para que cualquier usuario pueda personalizar la traducción de cada letra como deseé. 
+Este proyecto consiste en un guante acondicionado con sensores que son capaces de leer la posición de los dedos. El objetivo es que al hacer una seña del lenguaje de señas con la mano, estqa se pueda traducir a su letra correspondiente que se mostrará en un LCD. La particularidad de este proyecto frente a parecidos es que tiene la capacidad de ser programable para que cualquier usuario pueda personalizar cada posición de las señas como guste. 
 
 ### Materiales:
 #### ►PIC18F4550
